@@ -1,0 +1,11 @@
+name = "ArcadeLearningEnvironment_jll"
+uuid = "52cbb755-00ff-5a24-b23e-8a91c598877e"
+version = "0.6.1+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

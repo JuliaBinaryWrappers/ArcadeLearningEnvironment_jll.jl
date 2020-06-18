@@ -1,0 +1,252 @@
+[[ArcadeLearningEnvironment]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5785f48841245d08ce6e0d85597d380ecd691866"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "881e5a9b2e7e064e2df65cc3a780f41019519aa5d49717eb9567bc4d1e6e3a59"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fa3723b568b6ad62e46988fe8768255bcf0df646"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "2c1bfb7a6c87e4f921ff3d3bd57fd691692895abaeaa9d337d551b92bc921be3"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4eae593cd0d633b53b55eb3f8fcdcaf9e5eb4440"
+libc = "musl"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "1355ba9aca110744cb116b888ba08c765e8c6aaab0342910fec66b0524a30855"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.aarch64-linux-musl-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "33b39601295c420c4578a52497b3a753f772bd4e"
+libc = "musl"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "fd0ecc3c2f0bfec7b8664f8d93437a0e0e4c00263ab9af132077098689872c62"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.aarch64-linux-musl-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "75dc22dab24091c209bbf0f341f4d552ed19348b"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "0e8f7fb290826af9a2d99e3b19c5b899d7dff9afaaf75320d4ec7dedd930efb2"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b0df09fc37911503431075037a08cc05140233d"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "99dfa10ede4b338430e6aea53173d3f90d76047fc1ff1970419595bd1db8485f"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a8f58f02667d53fc380584db6c520fda953f6f8"
+libc = "musl"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "df69954865683a3320d8a663b50107dda0bf73f536b0dcd5424bf07b69c102da"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "78793ce6cbbcd40acd8ad34cdc7c742721c00949"
+libc = "musl"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "e509605d83392d3955ba7b70ad8f1b17c41cccbd27f7abcc03f1b26b47996935"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "29da6544aceee90d5599b57aa3ade9d53cd52e80"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "df349e2f360430cce332146843d59fa8dd6a9b56624f39aaeb16c752aa4ed5a9"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.i686-linux-gnu-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c18dcfee6bb9aae07914f42f942a06a144c422f"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "d9e477bffa1c80d80104c4acc046cfb2c5dc24e6009286c15c5aa48bb9fbcbb3"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.i686-linux-gnu-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "59929a6b144eb10f56522c2e65f02a2c99c4e48a"
+libc = "musl"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "bbf9b8a4688e1660437402a788d7505fb4c461ec932e091555335f9da7737665"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.i686-linux-musl-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3c4f55a089627cd1db6bf9b977b4ab99bdd7f0af"
+libc = "musl"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "35af4910932c1cf6fdcc6eb9b787fb8341c30fef22c28c318381b3bec12f695e"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.i686-linux-musl-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b691624b928282b89029ccc0935cf49e14cb7df9"
+os = "windows"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "aede695cef25952474b2509de3dd54e79db680ae5acf1b989e787efc934bf78d"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.i686-w64-mingw32-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4f971f2c3527d32c3086f6341f4b21633961f259"
+os = "windows"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "45d10f853bb009d81579440ecb1478d106ae89d1fed9325c389f3f7a2dd047f8"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.i686-w64-mingw32-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a32a29cc84ef9fad9402b31109f77dbdb8d3d30"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "d6b7b95cae67f7fc9f02264ada2bc7426eb37f9eb64ee16c8109b4af53c72c3d"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fdb56431116247c234e181c7c77aabeee2ba5939"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "588e54f119cca25f28aa401e01add953fee4a5261508a6dcd1930dfa32025139"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "efa6002dd37c396884199b91b9502c296a2b3773"
+os = "macos"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "f0aa75d5822b63c789eaa477ecc513cd63946f890a044ad760f9ee523fc64f0e"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-apple-darwin14-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d68e4f8a759b4a36d401d9b04599f21801b899af"
+os = "macos"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "c03a7b3929777d3b3b2c536f7bd503bef1db2ac312055509dc1b0554efe4c400"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-apple-darwin14-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f8ebc4f7d5fa48837a8d01f3a862fd1f1fb5bff"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "1c4c725aae19f3b625442bc6b0bfdef96a05bc2dcdc29c08ff345d4da48e9c75"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0cff36dca1973ee2546cd26c4db6c402064b9e4a"
+libc = "glibc"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "07282444d7610edd01f798f0312a8f601961c2d4de32428d5ee7a101171a1829"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "003784277afa0b9e34c3f66651b9c1c042deb884"
+libc = "musl"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "31a0979ddd296848a02f9518f6e8dd8a2808a3fc6529ac04c7ea8ad3751a0ac7"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-linux-musl-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9efa1dca7e818fd25e87f7e667f84f0e323c51c8"
+libc = "musl"
+os = "linux"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "5003ba0afbab841083f089ea0c0a452457f8a200edcd769f6baa1d378cdf0990"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-linux-musl-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c8e5e71d8b7285f86fae1570ee2ab903c1af96d6"
+os = "freebsd"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "4fbd546af7290d97e1ee4e37e0e8553c8bfac5361af7b262a48dbd221de5f368"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84d159767597daf2666575c12203639a84f1479c"
+os = "freebsd"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "10951f54b2410f26177ddfed6bc6c80c0309431c173411e5ac191d8b8beae386"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "89e85050a82c64f73666d1068fd571c484470a87"
+os = "windows"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "3fbdacb5d6322338134b9c5960e684e61dc3ae227b4adadffd1b9a1733c69979"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[ArcadeLearningEnvironment]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e930ed3d55505ad14b37e14a33de35f4e63e7f14"
+os = "windows"
+
+    [[ArcadeLearningEnvironment.download]]
+    sha256 = "a766cbbeff1bc6fe650f7f9ba6ac3bdaf0b1526d2f026209f294c230f842c4d8"
+    url = "https://github.com/JuliaBinaryWrappers/ArcadeLearningEnvironment_jll.jl/releases/download/ArcadeLearningEnvironment-v0.6.1+0/ArcadeLearningEnvironment.v0.6.1.x86_64-w64-mingw32-cxx11.tar.gz"
